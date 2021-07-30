@@ -7,12 +7,20 @@ require 'pry'
 class MemberList
   # details for an individual member
   class Member < Scraped::HTML
+    PREFIXES = %w[Senator The Hon Dame Lt Col Mr Mrs Ms Dr].freeze
+
     field :name do
-      noko.css('.c-name').text.tidy
+      PREFIXES.reduce(full_name) { |current, prefix| current.sub(/#{prefix}\.? /, '') }
     end
 
     field :position do
       noko.css('.c-position').text.tidy
+    end
+
+    private
+
+    def full_name
+      noko.css('.c-name').text.tidy
     end
   end
 

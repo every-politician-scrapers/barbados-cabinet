@@ -8,9 +8,10 @@ class MemberList
   # details for an individual member
   class Member < Scraped::HTML
     PREFIXES = %w[Senator The Hon Dame Lt Col Mr Mrs Ms Dr].freeze
+    SUFFIXES = %w[M.P. J.P. Q.C. D.A. GCMG].freeze
 
     field :name do
-      PREFIXES.reduce(full_name) { |current, prefix| current.sub(/#{prefix}\.? /, '') }
+      SUFFIXES.reduce(unprefixed_name) { |current, suffix| current.sub(/#{suffix}/, '').tidy.sub(/,$/, '') }
     end
 
     field :position do
@@ -21,6 +22,10 @@ class MemberList
 
     def full_name
       noko.css('.c-name').text.tidy
+    end
+
+    def unprefixed_name
+      PREFIXES.reduce(full_name) { |current, prefix| current.sub(/#{prefix}\.? /, '') }
     end
   end
 

@@ -15,6 +15,10 @@ class MemberList
     end
 
     field :position do
+      # These two are only in the body text
+      return 'Governor-General' if name == 'Sandra Prunella Mason'
+      return 'Prime Minister' if name == 'Mia Amor Mottley'
+
       noko.css('.c-position').text.tidy
     end
 

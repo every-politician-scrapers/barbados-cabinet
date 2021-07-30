@@ -1,0 +1,15 @@
+{
+    "cabinet": {
+      "id": "Q107717903",
+      "start": "2020-07-22"
+    },
+    "source": {
+        "url":   "https://www.gov.bb/Government/cabinet",
+        "title": "CABINET",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/barbados-cabinet"
+}

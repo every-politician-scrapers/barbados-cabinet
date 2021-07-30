@@ -1,27 +1,28 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q107718246,Adrian R. Forde,Adrian R. Forde,,,,,Q107718247,Minister of Environment and National Beautification,Q107718246-32CC9BA7-E46E-4680-8730-015842ACDAB2
-Q107718248,Charles McD. Griffith,Charles McD. Griffith,,,,,Q107718249,"Minister in the Ministry of Housing, Lands and Rural Development",Q107718248-C3D4CE57-70AA-4AAE-9CEC-C7C5920D1383
-Q107718250,Cheryl Sandra V. Husbands,Cheryl Sandra V. Husbands,,,,,Q107718251,Minister in the Ministry of Foreign Trade,Q107718250-11D644F1-B999-4718-80F3-3234CF090FC9
-Q107718253,Colin E. Jordan,Colin E. Jordan,,,,,Q107718254,Minister of Labour and Social Partnership Relations,Q107718253-E9F3A673-F03F-4FCD-BCE3-EE70B2FEE700
-Q107718255,Cynthia Y. Forde,Cynthia Y. Forde,,,,,Q107718256,Minister of People Empowerment and Elder Affairs,Q107718255-3399440A-BB29-4E1A-9689-3AF7C9F851A6
-Q107718257,Dale Marshall,Dale Marshall,,,,,Q107718258,Attorney-General and Minister of Legal Affairs,Q107718257-FA7B611F-C928-4D57-8AFA-3F9A36825E0B
-Q107718259,Dwight G. Sutherland,Dwight G. Sutherland,,,,,Q107718260,"Minister of Small Business, Entrepreneurship and Commerce",Q107718259-04BAC9F7-F0A7-46DB-88DD-2C18B298BD71
-Q107718261,G. P. Ian Gooding-Edghill.,G. P. Ian Gooding-Edghill.,,,,,Q107718262,"Minister of Transport, Works and Water Resources",Q107718261-16BBE68E-1562-4A20-89A1-E43FC9D24319
-Q107718263,Indar A. Weir,Indar A. Weir,,,,,Q107718264,Minister of Agriculture and Food Security,Q107718263-DF05B83D-B46A-4790-B6AD-AF9D2C17DA52
-Q107718230,Jeffrey D. Bostic,Jeffrey D. Bostic,,,,,Q107718231,Minister of Health and Wellness,Q107718230-5F292489-91D8-4DDC-9DCE-A01FEFB6DC32
-Q107718239,Jerome X. Walcott,Jerome X. Walcott,,,,,Q107718240,Minister of Foreign Affairs and Foreign Trade,Q107718239-0BA5F364-ACFA-48FC-8153-7CD51CB12AD8
-Q107718265,John A. King,John A. King,,,,,Q107718266,"Minister of Creative Economy, Culture and Sports",Q107718265-4DFF62C6-4E9B-4FC2-B567-FD53894A8843
-Q107718243,Kay S. McConney,Kay S. McConney,,,,,Q107718244,"Minister of Innovation, Science and Smart Technology",Q107718243-D0F3CCFA-36B5-4A30-B775-FE3D33A80939
-Q107718267,Kerrie D. Symmonds,Kerrie D. Symmonds,,,,,Q107718268,Minister of Energy and Water Resources,Q107718267-858B7581-48DA-4CA2-95E7-5594B01FC537
-Q107718270,Kirk D.M. Humphrey,Kirk D.M. Humphrey,,,,,Q107718271,Minister of Maritime Affairs and the Blue Economy,Q107718270-989AE228-C8E0-4AE1-BD5A-0448A784055A
-Q107718241,Lisa R. Cummins,Lisa R. Cummins,,,,,Q107718242,Minister of Tourism and International Transport,Q107718241-13BCE542-15E0-4605-BE4E-2A511366BA3C
-Q107718272,Marsha K. Caddle,Marsha K. Caddle,,,,,Q107718273,Minister in the Ministry of Economic Affairs and Investment,Q107718272-90035992-F20E-448F-9E25-8204C46639D6
-Q6827147,Mia Mottley,Mia Mottley,female,1965-10-01T00:00:00Z,11,,Q15921525,Prime Minister of Barbados,Q6827147-ffe9fbcc-4fbc-6c4b-0a76-f782db5f2f1b
-Q107718234,Neil G.H. Rowe,Neil G.H. Rowe,,,,,Q107718235,"Parliamentary Secretary, Ministry of People Empowerment and Elder Affairs",Q107718234-23C11B89-0239-4990-A9BD-E9143E0DC1D3
-Q107718274,Peter R. Phillips,Peter R. Phillips,,,,,Q107718275,"Minister in the Ministry of Transport, Works and Maintenance",Q107718274-E4218C4B-8CA8-4665-9097-7B94BA1767BF
-Q107718236,Romel O. Springer,Romel O. Springer,,,,,Q107718238,"Parliamentary Secretary, Ministry of Education, Technological and Vocational Training",Q107718236-12510C87-E849-4A15-A491-5626BC892425
-Q107718276,Ronald St. C. Toppin,Ronald St. C. Toppin,,,,,Q107718279,Minister of International Business and Industry,Q107718276-49ABF336-D680-48EE-BE6C-FB17B953D0D1
-Q107718280,Ryan R. Straughn,Ryan R. Straughn,,,,,Q107718281,Minister in the Ministry of Finance,Q107718280-48D3BB12-138D-4AFE-9246-4C68CAC0E9A6
-Q107718282,Santia J.O. Bradshaw,Santia J.O. Bradshaw,,,,,Q107718283,"Minister of Education, Technological and Vocational Training and Leader of Government Business",Q107718282-D18C1930-8020-46A9-94A4-BBA2B5EB1142
-Q107718284,Wilfred A. Abrahams,Wilfred A. Abrahams,,,,,Q107718285,"Minister of Information, Broadcasting and Public Affairs",Q107718284-2F516E11-3879-463F-8F7A-0175A742B57F
-Q107718226,William F. Duguid,William F. Duguid,,,,,Q107718223,"Minister of Transport, Works and Maintenance",Q107718226-F416D0A1-F1E1-42CE-A0DD-19F48BA5FB9F
+Q107718246,Adrian R. Forde,Adrian R. Forde,,,,https://www.gov.bb/Government/cabinet,Q107718247,Minister of Environment and National Beautification,Q107718246-32CC9BA7-E46E-4680-8730-015842ACDAB2
+Q107718248,Charles McD. Griffith,Charles McD. Griffith,,,,https://www.gov.bb/Government/cabinet,Q107718249,"Minister in the Ministry of Housing, Lands and Rural Development",Q107718248-C3D4CE57-70AA-4AAE-9CEC-C7C5920D1383
+Q107718250,Cheryl Sandra V. Husbands,Cheryl Sandra V. Husbands,,,,https://www.gov.bb/Government/cabinet,Q107718251,Minister in the Ministry of Foreign Trade,Q107718250-11D644F1-B999-4718-80F3-3234CF090FC9
+Q107718253,Colin E. Jordan,Colin E. Jordan,,,,https://www.gov.bb/Government/cabinet,Q107718254,Minister of Labour and Social Partnership Relations,Q107718253-E9F3A673-F03F-4FCD-BCE3-EE70B2FEE700
+Q107718255,Cynthia Y. Forde,Cynthia Y. Forde,,,,https://www.gov.bb/Government/cabinet,Q107718256,Minister of People Empowerment and Elder Affairs,Q107718255-3399440A-BB29-4E1A-9689-3AF7C9F851A6
+Q107718257,Dale Marshall,Dale Marshall,,,,https://www.gov.bb/Government/cabinet,Q107718258,Attorney-General and Minister of Legal Affairs,Q107718257-FA7B611F-C928-4D57-8AFA-3F9A36825E0B
+Q107718259,Dwight G. Sutherland,Dwight G. Sutherland,,,,https://www.gov.bb/Government/cabinet,Q107718260,"Minister of Small Business, Entrepreneurship and Commerce",Q107718259-04BAC9F7-F0A7-46DB-88DD-2C18B298BD71
+Q107718261,G. P. Ian Gooding-Edghill,G. P. Ian Gooding-Edghill,,,,,Q107718262,"Minister of Transport, Works and Water Resources",Q107718261-16BBE68E-1562-4A20-89A1-E43FC9D24319
+Q107718263,Indar A. Weir,Indar A. Weir,,,,https://www.gov.bb/Government/cabinet,Q107718264,Minister of Agriculture and Food Security,Q107718263-DF05B83D-B46A-4790-B6AD-AF9D2C17DA52
+Q107718230,Jeffrey D. Bostic,Jeffrey D. Bostic,,,,https://www.gov.bb/Government/cabinet,Q107718231,Minister of Health and Wellness,Q107718230-5F292489-91D8-4DDC-9DCE-A01FEFB6DC32
+Q107718239,Jerome X. Walcott,Jerome X. Walcott,,,,https://www.gov.bb/Government/cabinet,Q107718240,Minister of Foreign Affairs and Foreign Trade,Q107718239-0BA5F364-ACFA-48FC-8153-7CD51CB12AD8
+Q107718265,John A. King,John A. King,,,,https://www.gov.bb/Government/cabinet,Q107718266,"Minister of Creative Economy, Culture and Sports",Q107718265-4DFF62C6-4E9B-4FC2-B567-FD53894A8843
+Q107718243,Kay S. McConney,Kay S. McConney,,,,https://www.gov.bb/Government/cabinet,Q107718244,"Minister of Innovation, Science and Smart Technology",Q107718243-D0F3CCFA-36B5-4A30-B775-FE3D33A80939
+Q107718267,Kerrie D. Symmonds,Kerrie D. Symmonds,,,,https://www.gov.bb/Government/cabinet,Q107718268,Minister of Energy and Water Resources,Q107718267-858B7581-48DA-4CA2-95E7-5594B01FC537
+Q107718270,Kirk D.M. Humphrey,Kirk D.M. Humphrey,,,,https://www.gov.bb/Government/cabinet,Q107718271,Minister of Maritime Affairs and the Blue Economy,Q107718270-989AE228-C8E0-4AE1-BD5A-0448A784055A
+Q107718241,Lisa R. Cummins,Lisa R. Cummins,,,,https://www.gov.bb/Government/cabinet,Q107718242,Minister of Tourism and International Transport,Q107718241-13BCE542-15E0-4605-BE4E-2A511366BA3C
+Q107718272,Marsha K. Caddle,Marsha K. Caddle,,,,https://www.gov.bb/Government/cabinet,Q107718273,Minister in the Ministry of Economic Affairs and Investment,Q107718272-90035992-F20E-448F-9E25-8204C46639D6
+Q6827147,Mia Amor Mottley,Mia Mottley,female,1965-10-01T00:00:00Z,11,https://www.gov.bb/Government/cabinet,Q15921525,Prime Minister,Q6827147-ffe9fbcc-4fbc-6c4b-0a76-f782db5f2f1b
+Q107718234,Neil G.H. Rowe,Neil G.H. Rowe,,,,https://www.gov.bb/Government/cabinet,Q107718235,"Parliamentary Secretary, Ministry of People Empowerment and Elder Affairs",Q107718234-23C11B89-0239-4990-A9BD-E9143E0DC1D3
+Q107718274,Peter R. Phillips,Peter R. Phillips,,,,https://www.gov.bb/Government/cabinet,Q107718275,"Minister in the Ministry of Transport, Works and Maintenance",Q107718274-E4218C4B-8CA8-4665-9097-7B94BA1767BF
+Q107718236,Romel O. Springer,Romel O. Springer,,,,https://www.gov.bb/Government/cabinet,Q107718238,"Parliamentary Secretary, Ministry of Education, Technological and Vocational Training",Q107718236-12510C87-E849-4A15-A491-5626BC892425
+Q107718276,Ronald St. C. Toppin,Ronald St. C. Toppin,,,,https://www.gov.bb/Government/cabinet,Q107718279,Minister of International Business and Industry,Q107718276-49ABF336-D680-48EE-BE6C-FB17B953D0D1
+Q107718280,Ryan R. Straughn,Ryan R. Straughn,,,,https://www.gov.bb/Government/cabinet,Q107718281,Minister in the Ministry of Finance,Q107718280-48D3BB12-138D-4AFE-9246-4C68CAC0E9A6
+Q9333540,Sandra Prunella Mason,Sandra Mason,female,1949-01-17T00:00:00Z,11,https://www.gov.bb/Government/cabinet,Q1261556,Governor-General,Q9333540-867af662-4088-95e0-777a-e788f7f5ddfe
+Q107718282,Santia J.O. Bradshaw,Santia J.O. Bradshaw,,,,https://www.gov.bb/Government/cabinet,Q107718283,"Minister of Education, Technological and Vocational Training and Leader of Government Business",Q107718282-D18C1930-8020-46A9-94A4-BBA2B5EB1142
+Q107718284,Wilfred A. Abrahams,Wilfred A. Abrahams,,,,https://www.gov.bb/Government/cabinet,Q107718285,"Minister of Information, Broadcasting and Public Affairs",Q107718284-2F516E11-3879-463F-8F7A-0175A742B57F
+Q107718226,William F. Duguid,William F. Duguid,,,,https://www.gov.bb/Government/cabinet,Q107718223,"Minister of Transport, Works and Maintenance",Q107718226-F416D0A1-F1E1-42CE-A0DD-19F48BA5FB9F

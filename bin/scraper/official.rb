@@ -11,7 +11,7 @@ class MemberList
     SUFFIXES = %w[M.P. J.P. Q.C. D.A. GCMG].freeze
 
     field :name do
-      SUFFIXES.reduce(unprefixed_name) { |current, suffix| current.sub(/#{suffix}/, '').tidy.sub(/,$/, '') }
+      SUFFIXES.reduce(unprefixed_name) { |current, suffix| current.sub(/#{suffix}/, '').tidy.sub(/,$/, '') }.sub(/\.$/, '')
     end
 
     field :position do

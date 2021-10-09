@@ -1,7 +1,12 @@
 {
+    "jurisdiction": {
+      "name": "Barbados",
+      "id": "Q244"
+    },
     "cabinet": {
       "id": "Q107717903",
-      "start": "2020-07-22"
+      "start": "2020-07-22",
+      "parent": "Q5015493"
     },
     "source": {
         "url":   "https://www.gov.bb/Government/cabinet",

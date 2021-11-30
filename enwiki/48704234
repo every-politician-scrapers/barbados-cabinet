@@ -13,6 +13,8 @@
     "University of the West Indies alumni",
     "University of Windsor Faculty of Law alumni",
     "Governors-General of Barbados",
+    "Presidents of Barbados",
+    "Heads of state of Barbados",
     "20th-century Barbadian lawyers",
     "21st-century Barbadian lawyers",
     "Female heads of state",
@@ -32,7 +34,7 @@
         {
           "sentences": [
             {
-              "text": "Dame Sandra Prunella Mason, GCMG, DA, QC (born 17 January 1949) is a Barbadian politician, lawyer, and diplomat who is the eighth and current governor-general of Barbados since 2018 and the president-elect of Barbados.",
+              "text": "Dame Sandra Prunella Mason, GCMG, DA, QC (born 17 January 1949), is a Barbadian politician, lawyer, and diplomat who has been the first president of Barbados since 2021.",
               "links": [
                 {
                   "text": "GCMG",
@@ -50,18 +52,9 @@
                   "page": "Queen's Counsel"
                 },
                 {
-                  "text": "governor-general of Barbados",
+                  "text": "president of Barbados",
                   "type": "internal",
-                  "page": "governor-general of Barbados"
-                },
-                {
-                  "text": "president-elect",
-                  "type": "internal",
-                  "page": "president-elect"
-                },
-                {
-                  "type": "internal",
-                  "page": "Barbados"
+                  "page": "president of Barbados"
                 }
               ],
               "formatting": {
@@ -71,12 +64,12 @@
               }
             },
             {
-              "text": "She will become the first president of Barbados on 30 November 2021, when the country will cease to be a constitutional monarchy and become a republic.",
+              "text": "Previously governor-general of Barbados from 2018 to 2021, she assumed the presidency on 30 November 2021, when the country ceased to be a constitutional monarchy and became a republic.",
               "links": [
                 {
-                  "text": "president of Barbados",
+                  "text": "governor-general of Barbados",
                   "type": "internal",
-                  "page": "president of Barbados"
+                  "page": "governor-general of Barbados"
                 },
                 {
                   "text": "constitutional monarchy",
@@ -84,7 +77,7 @@
                   "page": "Monarchy of Barbados"
                 },
                 {
-                  "text": "become a republic",
+                  "text": "became a republic",
                   "type": "internal",
                   "page": "Republicanism in Barbados"
                 }
@@ -95,7 +88,7 @@
         {
           "sentences": [
             {
-              "text": "Mason was a practising attorney-at-law who has served as a High Court judge in Saint Lucia and a Court of Appeal judge in Barbados, and was the first woman admitted to the Bar in Barbados.",
+              "text": "Mason was a practicing attorney-at-law who has served as a High Court judge in Saint Lucia and a Court of Appeal judge in Barbados, and was the first woman admitted to the Bar in Barbados.",
               "links": [
                 {
                   "text": "attorney-at-law",
@@ -179,7 +172,7 @@
           "template": "use dmy dates"
         },
         {
-          "description": "President-elect of Barbados",
+          "description": "President of Barbados",
           "template": "short description"
         },
         {
@@ -193,7 +186,7 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "Her Excellency Dame",
+            "text": "Her Excellency The Most Honourable",
             "links": [
               {
                 "text": "Her Excellency",
@@ -202,12 +195,12 @@
               },
               {
                 "type": "internal",
-                "page": "Dame"
+                "page": "The Most Honourable"
               }
             ]
           },
           "name": {
-            "text": "Sandra Mason"
+            "text": "Dame Sandra Mason"
           },
           "honorific-suffix": {
             "text": "GCMG DA QC",
@@ -246,10 +239,9 @@
             ]
           },
           "office": {
-            "text": "President-elect of Barbados",
+            "text": "1st President of Barbados",
             "links": [
               {
-                "text": "President-elect of Barbados",
                 "type": "internal",
                 "page": "President of Barbados"
               }
@@ -267,8 +259,18 @@
           "term_start": {
             "text": "30 November 2021"
           },
-          "succeeding": {
-            "text": "Position established Elizabeth II as Queen of Barbados",
+          "predecessor": {
+            "text": "Position established\nElizabeth II (as Queen of Barbados)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              },
+              {
+                "type": "internal",
+                "page": "Queen of Barbados"
+              }
+            ],
             "formatting": {
               "italic": [
                 "Position established"
@@ -309,14 +311,26 @@
           "term_start1": {
             "text": "8 January 2018"
           },
+          "term_end1": {
+            "text": "30 November 2021"
+          },
           "predecessor1": {
             "text": "Sir Elliott Belgrave",
             "links": [
               {
+                "text": "Sir Elliott Belgrave",
                 "type": "internal",
                 "page": "Elliott Belgrave"
               }
             ]
+          },
+          "successor1": {
+            "text": "Position abolished",
+            "formatting": {
+              "italic": [
+                "Position abolished"
+              ]
+            }
           },
           "birth_name": {
             "text": "Sandra Prunella Mason"
@@ -827,7 +841,7 @@
         {
           "sentences": [
             {
-              "text": "In 2020, Mason in her official capacity announcing government policy in the \"throne speech\", written by the government of Prime Minister Mia Mottley, stated that Barbados would become a republic, removing Queen Elizabeth II as head of state.",
+              "text": "In 2020, Mason, in her official capacity announcing government policy in the \"throne speech\", written by the government of Prime Minister Mia Mottley, stated that Barbados would become a republic, removing Queen Elizabeth II as head of state.",
               "links": [
                 {
                   "text": "throne speech",
@@ -850,7 +864,7 @@
               ]
             },
             {
-              "text": "She was then expected to be nominated as a candidate to be the first president of Barbados, and to be elected by the two houses of parliament, and assume office on 30 November 2021."
+              "text": "She was then expected to be nominated as a candidate to be the first president of Barbados, and to be elected by the two houses of parliament, and to assume office on 30 November 2021."
             }
           ]
         }
@@ -907,14 +921,18 @@
       ]
     },
     {
-      "title": "President-elect of Barbados",
+      "title": "President of Barbados",
       "depth": 0,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "On 12 October 2021, Mason was nominated by Mottley and Opposition Leader Joseph Atherley to become the first president of Barbados.",
+              "text": "On 12 October 2021, Mason was nominated by Prime Minister Mia Mottley and Opposition Leader Joseph Atherley to become the first president of Barbados.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Mia Mottley"
+                },
                 {
                   "type": "internal",
                   "page": "Joseph Atherley"
@@ -937,10 +955,10 @@
               ]
             },
             {
-              "text": "Mason will take office on 30 November 2021, the 55th anniversary of independence."
+              "text": "Mason took office on 30 November 2021, the 55th anniversary of independence."
             },
             {
-              "text": "While she will nominally be chief executive, in practice her role will be mostly ceremonial, much like her current role as Governor-General."
+              "text": "While she is nominally chief executive and is the sole head of state in Barbados, in practice her role is mostly ceremonial, much like her previous role as Governor-General."
             }
           ]
         }
@@ -962,21 +980,20 @@
           "inline": {}
         },
         {
-          "url": "http://constitutionnet.org/news/barbados-parliament-votes-amend-constitution-paving-way-republican-status#:~:text=republican%20status%20%7C%20ConstitutionNet-,In%20Barbados%2C%20parliament%20votes%20to%20amend%20constitution%2C%20paving,the%20way%20to%20republican%20status&text=Parliament%20voted%20by%20a%2025,into%20force%20by%20November%2030",
-          "title": "In Barbados, parliament votes to amend constitution, paving the way to republican status",
-          "date": "30 September 2021",
-          "publisher": "ConstitutionNet",
-          "accessdate": "9 October 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "url": "https://www.nytimes.com/2021/10/22/world/americas/sandra-mason-barbados.html",
           "title": "Barbados Elects Its First Head of State, Replacing Queen Elizabeth",
           "author1": "Christine Hauser",
           "date": "22 October 2021",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "Pride of Nationhood: Declaration of the Republic and Installation of the President of Barbados",
+          "url": "https://www.youtube.com/watch?v=_Ey5vNwlvNY",
+          "language": "en",
+          "access-date": "2021-11-30",
+          "template": "citation",
+          "type": "citation"
         }
       ]
     },
@@ -1016,6 +1033,15 @@
                 "text": "Dame of Grace of The Most Venerable Order of the Hospital of St. John",
                 "type": "internal",
                 "page": "Dame of Grace of The Most Venerable Order of the Hospital of Saint John of Jerusalem"
+              }
+            ]
+          },
+          {
+            "text": "Order of Freedom of Barbados (FB)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of Freedom of Barbados"
               }
             ]
           }
@@ -1123,11 +1149,12 @@
         },
         {
           "title": "Governor-General of Barbados",
-          "years": "2018–present",
+          "years": "2018–2021",
           "template": "s-ttl"
         },
         {
-          "template": "s-inc"
+          "reason": "Office abolished",
+          "template": "s-non"
         },
         {
           "before": "Elizabeth II (as Queen)",
@@ -1135,11 +1162,20 @@
         },
         {
           "title": "President of Barbados",
-          "years": "Taking office, 2021",
+          "years": "2021–present",
           "template": "s-ttl"
         },
         {
           "template": "s-inc"
+        },
+        {
+          "template": "heads of state of barbados"
+        },
+        {
+          "template": "presidents of barbados"
+        },
+        {
+          "template": "heads of state of republics"
         },
         {
           "template": "authority control"

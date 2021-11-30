@@ -3,28 +3,28 @@
   "pageID": 48704234,
   "categories": [
     "1949 births",
+    "20th-century Barbadian lawyers",
+    "20th-century women lawyers",
+    "21st-century Barbadian lawyers",
+    "21st-century women lawyers",
+    "Ambassadors of Barbados to Brazil",
+    "Ambassadors of Barbados to Venezuela",
     "Barbadian judges",
     "Barbadian lawyers",
     "Barbadian Queen's Counsel",
-    "Barbadian women lawyers",
-    "Knights and Dames of St Andrew (Barbados)",
-    "Dames Grand Cross of the Order of St Michael and St George",
-    "Living people",
-    "University of the West Indies alumni",
-    "University of Windsor Faculty of Law alumni",
-    "Governors-General of Barbados",
-    "Presidents of Barbados",
-    "Heads of state of Barbados",
-    "20th-century Barbadian lawyers",
-    "21st-century Barbadian lawyers",
-    "Female heads of state",
-    "Barbadian women in politics",
-    "20th-century women lawyers",
-    "21st-century women lawyers",
-    "People from Saint Philip, Barbados",
     "Barbadian women ambassadors",
-    "Ambassadors of Barbados to Venezuela",
-    "Ambassadors of Barbados to Brazil"
+    "Barbadian women in politics",
+    "Barbadian women lawyers",
+    "Dames Grand Cross of the Order of St Michael and St George",
+    "Female heads of state",
+    "Governors-General of Barbados",
+    "Heads of state of Barbados",
+    "Knights and Dames of St Andrew (Barbados)",
+    "Living people",
+    "People from Saint Philip, Barbados",
+    "Presidents of Barbados",
+    "University of the West Indies alumni",
+    "University of Windsor Faculty of Law alumni"
   ],
   "sections": [
     {
@@ -34,8 +34,13 @@
         {
           "sentences": [
             {
-              "text": "Dame Sandra Prunella Mason, GCMG, DA, QC (born 17 January 1949), is a Barbadian politician, lawyer, and diplomat who has been the first president of Barbados since 2021.",
+              "text": "Dame Sandra Prunella Mason, FB, GCMG, DA, QC (born 17 January 1949), is a Barbadian politician, lawyer, and diplomat who has been the first president of Barbados since 2021.",
               "links": [
+                {
+                  "text": "FB",
+                  "type": "internal",
+                  "page": "Order of Freedom of Barbados"
+                },
                 {
                   "text": "GCMG",
                   "type": "internal",
@@ -64,7 +69,7 @@
               }
             },
             {
-              "text": "Previously governor-general of Barbados from 2018 to 2021, she assumed the presidency on 30 November 2021, when the country ceased to be a constitutional monarchy and became a republic.",
+              "text": "Previously as the eighth and final governor-general of Barbados from 2018 to 2021, she assumed the presidency on 30 November 2021, when the country ceased to be a constitutional monarchy and became a republic.",
               "links": [
                 {
                   "text": "governor-general of Barbados",
@@ -168,12 +173,12 @@
       ],
       "templates": [
         {
-          "date": "October 2021",
-          "template": "use dmy dates"
-        },
-        {
           "description": "President of Barbados",
           "template": "short description"
+        },
+        {
+          "date": "October 2021",
+          "template": "use dmy dates"
         },
         {
           "year": "1949",
@@ -203,8 +208,13 @@
             "text": "Dame Sandra Mason"
           },
           "honorific-suffix": {
-            "text": "GCMG DA QC",
+            "text": "FB GCMG DA QC",
             "links": [
+              {
+                "text": "FB",
+                "type": "internal",
+                "page": "Order of Freedom of Barbados"
+              },
               {
                 "text": "GCMG",
                 "type": "internal",
@@ -226,12 +236,8 @@
             "text": "Sandra of Barbados.jpg"
           },
           "caption": {
-            "text": "Mason at the 2019 Independence Day parade in Bridgetown, wearing the insignia of the Order of Saint Michael and Saint George",
+            "text": "Mason wearing the insignia of the Order of Saint Michael and Saint George, 2019",
             "links": [
-              {
-                "type": "internal",
-                "page": "Bridgetown"
-              },
               {
                 "type": "internal",
                 "page": "Order of Saint Michael and Saint George"
@@ -464,736 +470,6 @@
           "template": "citation",
           "type": "web"
         }
-      ]
-    },
-    {
-      "title": "Early life and education",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sandra Prunella Mason was born on 17 January 1949 in Saint Philip, Barbados.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Saint Philip, Barbados"
-                }
-              ]
-            },
-            {
-              "text": "After studying at St. Catherine's Primary School until age nine, she attended secondary school at Queen's College, then began teaching at the Princess Margaret Secondary School in 1968.",
-              "links": [
-                {
-                  "text": "Queen's College",
-                  "type": "internal",
-                  "page": "Queen's College (Barbados)"
-                }
-              ]
-            },
-            {
-              "text": "The following year, she worked at Barclays Bank as a clerk.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Barclays Bank"
-                }
-              ]
-            },
-            {
-              "text": "Mason enrolled in the University of the West Indies at Cave Hill, where she earned a Bachelor of Laws.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "University of the West Indies at Cave Hill"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bachelor of Laws"
-                }
-              ]
-            },
-            {
-              "text": "Mason was one of the first graduates of the Faculty of Law from UWI, Cave Hill, completing her education in 1973."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In 1975 she obtained a Legal Education Certificate from Hugh Wooding Law School in Trinidad and Tobago; the first woman attorney-at-law from Barbados to graduate from the school.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Legal Education Certificate"
-                },
-                {
-                  "type": "internal",
-                  "page": "Hugh Wooding Law School"
-                },
-                {
-                  "type": "internal",
-                  "page": "Trinidad and Tobago"
-                }
-              ]
-            },
-            {
-              "text": "She was admitted to the bar on 10 November the same year, becoming the first woman member of the Barbados Bar Association.",
-              "links": [
-                {
-                  "text": "admitted to the bar",
-                  "type": "internal",
-                  "page": "admitted to the bar"
-                }
-              ]
-            },
-            {
-              "text": "She is a Soroptimist and Patron of SI Barbados.",
-              "links": [
-                {
-                  "text": "Soroptimist",
-                  "type": "internal",
-                  "page": "Soroptimist International"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "author": "Brathwaite",
-          "year": "1999",
-          "p": "287",
-          "template": "sfn"
-        }
-      ],
-      "references": [
-        {
-          "title": "Caribbean Elections Biography {{!}} Sandra Prunella Mason",
-          "url": "http://caribbeanelections.com/knowledge/biography/bios/mason_sandra.asp",
-          "access-date": "25 October 2021",
-          "website": "caribbeanelections.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Soroptimists committed to empowerment of women, girls",
-          "url": "https://www.barbadosadvocate.com/news/soroptimists-committed-empowerment-women-girls",
-          "work": "The Barbados Advocate",
-          "date": "20 June 2018",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Sandra Prunella Mason",
-          "url": "http://www.caribbeanelections.com/knowledge/biography/bios/mason_sandra.asp",
-          "publisher": "Caribbean Elections",
-          "access-date": "1 December 2015",
-          "location": "St. Michael, Barbados",
-          "date": "2015",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Justice Sandra Mason records another first",
-          "url": "http://webcache.googleusercontent.com/search?q=cache:cOmK_m6WGSUJ:www.barbadosadvocate.com/newsitem.asp%3Fmore%3Dlifestyle%26NewsID%3D32285&hl=en&gl=mx&strip=1&vwsrc=0",
-          "access-date": "1 December 2015",
-          "work": "Barbados Advocate",
-          "date": "9 August 2013",
-          "location": "St. Michael, Barbados",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "website": "Official Website of the Barbados Government",
-          "title": "Governor General",
-          "url": "https://www.gov.bb/Visit-Barbados/governor-general",
-          "access-date": "25 October 2021",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Early career and legal practice",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Beginning in 1975, she worked in Trust Administration for Barclay's and transferred to several different posts within the Barclay's company until 1977."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In 1978, Mason began working as the Magistrate of the Juvenile and Family Court and simultaneously tutoring in family law at UWI."
-            },
-            {
-              "text": "She stopped tutoring in 1983 and continuing as magistrate."
-            },
-            {
-              "text": "In 1988, Mason completed the Royal Institute of Public Administration in London's course on Judicial Administration.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Royal Institute of Public Administration"
-                },
-                {
-                  "type": "internal",
-                  "page": "London"
-                }
-              ]
-            },
-            {
-              "text": "She served on the UN Committee on the Rights of the Child from its 1991 inception until 1999, holding the vice chair from 1993 to 1995 and chair from 1997 to 1999.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Committee on the Rights of the Child"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Between 1991 and 1992, Mason served as chair and was one of the two women appointed to the 13-member CARICOM commission charged with evaluating regional integration.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "CARICOM"
-                }
-              ]
-            },
-            {
-              "text": "She left the family court in 1992 to serve as an ambassador to Venezuela, and was the first woman magistrate from Barbados to serve in that position."
-            },
-            {
-              "text": "Between 1993 and 1994 she also served as ambassador to Chile, Colombia and Brazil.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chile"
-                },
-                {
-                  "type": "internal",
-                  "page": "Colombia"
-                },
-                {
-                  "type": "internal",
-                  "page": "Brazil"
-                }
-              ]
-            },
-            {
-              "text": "Upon her return to Barbados in 1994, Mason was appointed Chief Magistrate for Barbados, and in 1997 became the Registrar of the Supreme Court.",
-              "links": [
-                {
-                  "text": "Supreme Court",
-                  "type": "internal",
-                  "page": "Supreme Court of Barbados"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In 2000, Mason completed studies on Alternative Dispute Resolution at the University of Windsor in Windsor, Ontario, Canada, and then completed a Fellowship with the Commonwealth Judicial Education Institute in Halifax, Nova Scotia, in 2001, as well as a course in Advanced Dispute Resolution at UWI.",
-              "links": [
-                {
-                  "text": "University of Windsor",
-                  "type": "internal",
-                  "page": "University of Windsor Faculty of Law"
-                },
-                {
-                  "type": "internal",
-                  "page": "Windsor, Ontario"
-                },
-                {
-                  "type": "internal",
-                  "page": "Commonwealth Judicial Education Institute"
-                },
-                {
-                  "type": "internal",
-                  "page": "Halifax, Nova Scotia"
-                }
-              ]
-            },
-            {
-              "text": "She continued to serve as Registrar of the Supreme Court until 2005, when she was appointed as Queen's Counsel to the Inner Bar of Barbados."
-            },
-            {
-              "text": "In 2008, Mason was sworn in as an Appeals Judge becoming the first woman to serve on the Barbados Court of Appeals."
-            },
-            {
-              "text": "For three days in 2012, she became the acting Governor-General of Barbados and the following year was the first Barbadian appointed to membership in the Commonwealth Secretariat Arbitral Tribunal (CSAT).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Commonwealth Secretariat Arbitral Tribunal"
-                }
-              ]
-            },
-            {
-              "text": "The Tribunal operates among members of the Commonwealth of Nations to resolve issues concerning contract disputes.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Commonwealth of Nations"
-                }
-              ]
-            },
-            {
-              "text": "With that appointment, Loop News named her one of the 10 most powerful women in Barbados.",
-              "formatting": {
-                "italic": [
-                  "Loop News"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "author": "Erickson",
-          "year": "Cohen",
-          "location": "Hart",
-          "list": [
-            "2001"
-          ],
-          "p": "231",
-          "template": "sfn"
-        },
-        {
-          "author": "Brathwaite",
-          "year": "1999",
-          "p": "287",
-          "template": "sfn"
-        }
-      ],
-      "references": [
-        {
-          "last1": "Blackman",
-          "first1": "Theresa",
-          "title": "Court of Appeal Judge Sworn In",
-          "url": "http://gisbarbados.gov.bb/index.php?categoryid=3&p2_articleid=841",
-          "access-date": "1 December 2015",
-          "publisher": "Barbados Government Information Service",
-          "date": "30 September 2008",
-          "location": "St. Michael, Barbados",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Martindale",
-          "first1": "Carol",
-          "title": "Justice Sandra Mason acting GG",
-          "url": "http://www.nationnews.com/nationnews/news/32211/justice-sandra-mason-acting-gg",
-          "access-date": "1 December 2015",
-          "work": "Nation News",
-          "date": "30 May 2012",
-          "location": "St. Michael, Barbados",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "The 10 most powerful women in Barbados",
-          "url": "http://www.loopnewsbarbados.com/content/10-most-powerful-women-barbados",
-          "access-date": "1 December 2015",
-          "publisher": "The Loop",
-          "date": "23 October 2015",
-          "archive-date": "19 August 2016",
-          "archive-url": "https://web.archive.org/web/20160819064552/http://www.loopnewsbarbados.com/content/10-most-powerful-women-barbados",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "Governor-General of Barbados",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "In 2017, Mason was appointed as the eighth Governor-General of Barbados, with a term beginning on 8 January 2018."
-            },
-            {
-              "text": "Simultaneously with her appointment, Mason was also appointed a Dame Grand Cross in the Order of Saint Michael and Saint George.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Order of Saint Michael and Saint George"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In 2020, Mason, in her official capacity announcing government policy in the \"throne speech\", written by the government of Prime Minister Mia Mottley, stated that Barbados would become a republic, removing Queen Elizabeth II as head of state.",
-              "links": [
-                {
-                  "text": "throne speech",
-                  "type": "internal",
-                  "page": "throne speech"
-                },
-                {
-                  "type": "internal",
-                  "page": "Mia Mottley"
-                },
-                {
-                  "text": "Barbados would become a republic",
-                  "type": "internal",
-                  "page": "Republicanism in Barbados"
-                },
-                {
-                  "type": "internal",
-                  "page": "Queen Elizabeth II"
-                }
-              ]
-            },
-            {
-              "text": "She was then expected to be nominated as a candidate to be the first president of Barbados, and to be elected by the two houses of parliament, and to assume office on 30 November 2021."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "title": "Sandra Mason to be new Governor General",
-          "url": "http://www.nationnews.com/nationnews/news/114409/dame-sandra-mason-governor",
-          "access-date": "27 December 2017",
-          "newspaper": "Nation News",
-          "date": "27 December 2017",
-          "archive-url": "https://web.archive.org/web/20171227224958/http://www.nationnews.com/nationnews/news/114409/dame-sandra-mason-governor",
-          "archive-date": "27 December 2017",
-          "location": "Fontabelle, Saint Michael, Barbados",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "16 September 2020",
-          "title": "Barbados to remove Queen Elizabeth as head of state",
-          "language": "en-GB",
-          "work": "BBC News",
-          "url": "https://www.bbc.com/news/world-latin-america-54174794",
-          "access-date": "25 October 2020",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "23 August 2021",
-          "title": "Dame Sandra Mason nominated to be first Barbados President",
-          "url": "https://today.caricom.org/2021/08/23/dame-sandra-mason-nominated-to-be-first-barbados-president/",
-          "access-date": "29 September 2021",
-          "website": "CARICOM Today",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "6 September 2021",
-          "title": "Barbados announces presidential nominee, cuts ties with British monarchy. What does it mean?",
-          "url": "https://www.wionews.com/world/barbados-announces-presidential-nominee-cuts-ties-with-british-monarchy-what-does-it-mean-411095",
-          "access-date": "29 September 2021",
-          "website": "WION",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
-      ]
-    },
-    {
-      "title": "President of Barbados",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "On 12 October 2021, Mason was nominated by Prime Minister Mia Mottley and Opposition Leader Joseph Atherley to become the first president of Barbados.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Mia Mottley"
-                },
-                {
-                  "type": "internal",
-                  "page": "Joseph Atherley"
-                },
-                {
-                  "text": "president of Barbados",
-                  "type": "internal",
-                  "page": "president of Barbados"
-                }
-              ]
-            },
-            {
-              "text": "She was subsequently unanimously elected by both houses (with three abstentions in the House and two in the Senate) on 20 October.",
-              "links": [
-                {
-                  "text": "unanimously elected by both houses",
-                  "type": "internal",
-                  "page": "2021 Barbadian presidential election"
-                }
-              ]
-            },
-            {
-              "text": "Mason took office on 30 November 2021, the 55th anniversary of independence."
-            },
-            {
-              "text": "While she is nominally chief executive and is the sole head of state in Barbados, in practice her role is mostly ceremonial, much like her previous role as Governor-General."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.barbadosparliament.com/uploads/sittings/attachments/11c0bb650b1c768dbdbee5a0208f6256.pdf",
-          "publisher": "Parliament of Barbados",
-          "accessdate": "16 October 2021",
-          "date": "12 October 2021",
-          "title": "Letter to the Speaker RE Nomination of Her Excellency Dame Sandra Mason as 1st President of Barbados",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.nytimes.com/2021/10/22/world/americas/sandra-mason-barbados.html",
-          "title": "Barbados Elects Its First Head of State, Replacing Queen Elizabeth",
-          "author1": "Christine Hauser",
-          "date": "22 October 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Pride of Nationhood: Declaration of the Republic and Installation of the President of Barbados",
-          "url": "https://www.youtube.com/watch?v=_Ey5vNwlvNY",
-          "language": "en",
-          "access-date": "2021-11-30",
-          "template": "citation",
-          "type": "citation"
-        }
-      ]
-    },
-    {
-      "title": "Honours",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Chancellor and Principal Dame of St. Andrew Order of Barbados (DA)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Order of Barbados"
-              }
-            ]
-          },
-          {
-            "text": "Dame Grand Cross of the Order of St. Michael and St. George (GCMG)",
-            "links": [
-              {
-                "text": "Dame Grand Cross of the Order of St. Michael and St. George",
-                "type": "internal",
-                "page": "Dame Grand Cross of The Most Distinguished Order Of Saint Michael And Saint George"
-              }
-            ]
-          },
-          {
-            "text": "Dame of Grace of The Most Venerable Order of the Hospital of St. John (DStJ)",
-            "links": [
-              {
-                "text": "Dame of Grace of The Most Venerable Order of the Hospital of St. John",
-                "type": "internal",
-                "page": "Dame of Grace of The Most Venerable Order of the Hospital of Saint John of Jerusalem"
-              }
-            ]
-          },
-          {
-            "text": "Order of Freedom of Barbados (FB)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Order of Freedom of Barbados"
-              }
-            ]
-          }
-        ]
-      ],
-      "references": [
-        {
-          "url": "https://gisbarbados.gov.bb/blog/another-honour-for-dame-sandra-mason",
-          "title": "Another Honour For Dame Sandra Mason",
-          "author": "Nya Phillips",
-          "date": "30 May 2018",
-          "work": "Barbados Gov. Information Service",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.stjohninternational.org/news/governor-general-dame-sandra-mason-sja-barbados",
-          "title": "Press Release: Governor General of Barbados, Dame Sandra Mason becomes patron of St John Ambulance Barbados",
-          "date": "30 May 2018",
-          "work": "The Order of St. John, St. John International",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "list": [
-            "30em"
-          ],
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "Bibliography",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "gisbarbados/dame-sandra-mason-barbados-eighth-governor-general",
-            "AUDIO: Learn about Dame Sandra Mason - B'dos Gov't Information Service"
-          ],
-          "template": "soundcloud"
-        }
-      ],
-      "references": [
-        {
-          "last": "Brathwaite",
-          "first": "Joan A.",
-          "title": "Women and the Law: A Bibliographical Survey of Legal and Quasi-legal Materials with Special Reference to Commonwealth Caribbean Jurisdictions and Including Relevant Commonwealth Caribbean Legislation and Case Material",
-          "url": "https://books.google.com/books?id=ycqTHWTxuj0C&pg=PA287",
-          "year": "1999",
-          "publisher": "University of the West Indies Press",
-          "location": "Kingston, Jamaica",
-          "isbn": "978-976-640-069-9",
-          "template": "citation",
-          "type": "cite book"
-        },
-        {
-          "last1": "Erickson",
-          "first1": "Martha Farrell",
-          "last2": "Cohen",
-          "first2": "Cynthia Price",
-          "last3": "Hart",
-          "first3": "Stuart",
-          "editor": "Malfrid Grude Flekkoy",
-          "title": "Children's Rights in Education",
-          "url": "https://books.google.com/books?id=0ugZBAAAQBAJ&pg=PA231",
-          "year": "2001",
-          "publisher": "Jessica Kingsley Publishers",
-          "location": "London",
-          "isbn": "978-0-85700-174-0",
-          "template": "citation",
-          "type": "cite book"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-gov"
-        },
-        {
-          "before": "Philip Greaves Acting",
-          "template": "s-bef"
-        },
-        {
-          "title": "Governor-General of Barbados",
-          "years": "2018–2021",
-          "template": "s-ttl"
-        },
-        {
-          "reason": "Office abolished",
-          "template": "s-non"
-        },
-        {
-          "before": "Elizabeth II (as Queen)",
-          "template": "s-bef"
-        },
-        {
-          "title": "President of Barbados",
-          "years": "2021–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "heads of state of barbados"
-        },
-        {
-          "template": "presidents of barbados"
-        },
-        {
-          "template": "heads of state of republics"
-        },
-        {
-          "template": "authority control"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Dame Sandra Prunella Mason, GCMG, D.A., Q.C., Governor-General of Barbados - Government of Barbados",
-            "links": [
-              {
-                "text": "Dame Sandra Prunella Mason, GCMG, D.A., Q.C.",
-                "type": "external",
-                "site": "https://www.gov.bb/Visit-Barbados/governor-general"
-              }
-            ]
-          }
-        ]
       ]
     }
   ]

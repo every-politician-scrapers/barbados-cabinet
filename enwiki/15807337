@@ -162,21 +162,11 @@
             "text": "Dale Dermot Marshall"
           },
           "order": {
-            "text": "Attorney-General of Barbados",
+            "text": "Attorney General of Barbados",
             "links": [
               {
                 "type": "internal",
-                "page": "Attorney-General of Barbados"
-              }
-            ]
-          },
-          "monarch": {
-            "text": "Queen Elizabeth II",
-            "links": [
-              {
-                "text": "Queen Elizabeth II",
-                "type": "internal",
-                "page": "Elizabeth II of the United Kingdom"
+                "page": "Attorney General of Barbados"
               }
             ]
           },
@@ -189,8 +179,8 @@
               }
             ]
           },
-          "governor_general": {
-            "text": "Dame Sandra Mason",
+          "president": {
+            "text": "Sandra Mason",
             "links": [
               {
                 "type": "internal",
@@ -260,18 +250,6 @@
           "type": "inline",
           "data": {},
           "inline": {}
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "attorney-general of barbados"
         }
       ]
     }

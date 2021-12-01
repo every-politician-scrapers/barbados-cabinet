@@ -2,11 +2,13 @@
   "title": "Sandra Mason",
   "pageID": 48704234,
   "categories": [
+    "Living people",
     "1949 births",
     "20th-century Barbadian lawyers",
     "20th-century women lawyers",
     "21st-century Barbadian lawyers",
     "21st-century women lawyers",
+    "21st-century politicians",
     "Ambassadors of Barbados to Brazil",
     "Ambassadors of Barbados to Venezuela",
     "Barbadian judges",
@@ -17,14 +19,16 @@
     "Barbadian women lawyers",
     "Dames Grand Cross of the Order of St Michael and St George",
     "Female heads of state",
+    "Women presidents",
     "Governors-General of Barbados",
-    "Heads of state of Barbados",
-    "Knights and Dames of St Andrew (Barbados)",
-    "Living people",
-    "People from Saint Philip, Barbados",
     "Presidents of Barbados",
+    "Heads of state of Barbados",
+    "Recipients of the Order of Freedom of Barbados",
+    "Knights and Dames of St Andrew (Barbados)",
+    "People from Saint Philip, Barbados",
     "University of the West Indies alumni",
-    "University of Windsor Faculty of Law alumni"
+    "University of Windsor Faculty of Law alumni",
+    "21st-century Barbadian women"
   ],
   "sections": [
     {
@@ -34,32 +38,16 @@
         {
           "sentences": [
             {
-              "text": "Dame Sandra Prunella Mason, FB, GCMG, DA, QC (born 17 January 1949), is a Barbadian politician, lawyer, and diplomat who has been the first president of Barbados since 2021.",
+              "text": "Dame Sandra Prunella Mason (born 17 January 1949) is a Barbadian politician, lawyer, and diplomat serving as the first president of Barbados since 30 November 2021, when Barbados was declared a Commonwealth republic.",
               "links": [
-                {
-                  "text": "FB",
-                  "type": "internal",
-                  "page": "Order of Freedom of Barbados"
-                },
-                {
-                  "text": "GCMG",
-                  "type": "internal",
-                  "page": "Order of St Michael and St George"
-                },
-                {
-                  "text": "DA",
-                  "type": "internal",
-                  "page": "Knight or Dame of St Andrew"
-                },
-                {
-                  "text": "QC",
-                  "type": "internal",
-                  "page": "Queen's Counsel"
-                },
                 {
                   "text": "president of Barbados",
                   "type": "internal",
                   "page": "president of Barbados"
+                },
+                {
+                  "type": "internal",
+                  "page": "Commonwealth republic"
                 }
               ],
               "formatting": {
@@ -69,12 +57,21 @@
               }
             },
             {
-              "text": "Previously the eighth and final governor-general of Barbados from 2018 to 2021, she assumed the presidency on 30 November 2021, when the country ceased to be a constitutional monarchy and became a republic.",
+              "text": "Previously the eighth and final governor-general of Barbados from 2018 to 2021, she was elected by the Parliament of Barbados on 20 October 2021 to become the country's first president, and took office on 30 November 2021, when Barbados ceased to be a constitutional monarchy and became a republic.",
               "links": [
                 {
                   "text": "governor-general of Barbados",
                   "type": "internal",
                   "page": "governor-general of Barbados"
+                },
+                {
+                  "text": "elected",
+                  "type": "internal",
+                  "page": "2021 Barbadian presidential election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliament of Barbados"
                 },
                 {
                   "text": "constitutional monarchy",
@@ -139,7 +136,7 @@
               "text": "She was the first appointee from Barbados to the Commonwealth Secretariat Arbitral Tribunal."
             },
             {
-              "text": "In 2017, she was appointed as the 8th governor general of Barbados, with a term beginning on 8 January 2018."
+              "text": "In 2017, she was appointed as the 8th governor-general of Barbados, with a term beginning on 8 January 2018."
             },
             {
               "text": "Simultaneously with her appointment, Mason was awarded the Dame Grand Cross in the Order of Saint Michael and Saint George.",
@@ -173,7 +170,7 @@
       ],
       "templates": [
         {
-          "description": "President of Barbados",
+          "description": "President of Barbados since 2021",
           "template": "short description"
         },
         {
@@ -186,12 +183,16 @@
           "day": "17",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "_list": "FB GCMG DA, QC",
+          "template": "post-nominals"
         }
       ],
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "Her Excellency The Most Honourable",
+            "text": "Her Excellency The Most Honourable Dame",
             "links": [
               {
                 "text": "Her Excellency",
@@ -201,11 +202,12 @@
               {
                 "type": "internal",
                 "page": "The Most Honourable"
+              },
+              {
+                "type": "internal",
+                "page": "Dame"
               }
             ]
-          },
-          "name": {
-            "text": "Dame Sandra Mason"
           },
           "honorific-suffix": {
             "text": "FB GCMG DA QC",
@@ -236,8 +238,12 @@
             "text": "Sandra of Barbados.jpg"
           },
           "caption": {
-            "text": "Mason wearing the insignia of the Order of Saint Michael and Saint George, 2019",
+            "text": "Mason at the 2019 Independence Day parade in Bridgetown, wearing the insignia of the Order of Saint Michael and Saint George",
             "links": [
+              {
+                "type": "internal",
+                "page": "Bridgetown"
+              },
               {
                 "type": "internal",
                 "page": "Order of Saint Michael and Saint George"
@@ -396,61 +402,13 @@
                 "page": "Legal Education Certificate"
               }
             ]
+          },
+          "occupation": {
+            "text": "Lawyer • ambassador • judge • politician"
           }
         }
       ],
       "references": [
-        {
-          "title": "Governor General Dame Sandra named first president-elect",
-          "url": "https://barbados.loopnews.com/content/gg-dame-sandra-mason-first-president-elect",
-          "access-date": "21 October 2021",
-          "publisher": "Loop Barbados",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "28 December 2017",
-          "title": "New G-G named",
-          "url": "https://www.barbadosadvocate.com/news/new-g-g-named",
-          "access-date": "27 July 2020",
-          "website": "Barbados Advocate",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "27 December 2017",
-          "title": "Sandra Mason to be new Governor General",
-          "url": "https://www.nationnews.com/2017/12/27/sandra-mason-to-be-new-governor-general/",
-          "access-date": "6 February 2021",
-          "website": "www.nationnews.com",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "29 December 2017",
-          "title": "Congrats to the new GG",
-          "url": "https://www.nationnews.com/2017/12/29/congrats-to-the-new-gg/",
-          "access-date": "6 February 2021",
-          "website": "www.nationnews.com",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "8 January 2018",
-          "title": "New Governor General Dame Sandra Mason installed",
-          "url": "https://www.nationnews.com/2018/01/08/new-governor-general-dame-sandra-mason-installed/",
-          "first": "Rachelle",
-          "last": "Agard",
-          "author2": "Amanda Lynch-Foster",
-          "access-date": "6 February 2021",
-          "website": "www.nationnews.com",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
         {
           "title": "Order of National Heroes Act 1998",
           "url": "http://104.238.85.55/en/ShowPdf/399.pdf",

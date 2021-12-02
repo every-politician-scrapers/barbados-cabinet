@@ -185,7 +185,7 @@
           "template": "birth date and age"
         },
         {
-          "_list": "FB GCMG DA, QC",
+          "_list": "FB GCMG DA QC",
           "template": "post-nominals"
         }
       ],
@@ -404,7 +404,7 @@
             ]
           },
           "occupation": {
-            "text": "Lawyer • ambassador • judge • politician"
+            "text": "Lawyer · ambassador · judge · politician"
           }
         }
       ],

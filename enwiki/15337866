@@ -34,7 +34,7 @@
         {
           "sentences": [
             {
-              "text": "Mia Amor Mottley (born 1 October 1965) is a Barbadian politician and attorney, and leader of the Barbados Labour Party (BLP).",
+              "text": "Mia Amor Mottley, (born 1 October 1965) is a Barbadian politician and attorney, and leader of the Barbados Labour Party (BLP).",
               "links": [
                 {
                   "text": "Barbadian",
@@ -149,7 +149,7 @@
           "template": "birth date and age"
         },
         {
-          "_list": "EGH, OR, QC, MP",
+          "_list": "QC, MP",
           "template": "post-nominals"
         }
       ],
@@ -168,18 +168,8 @@
             "text": "Mia Mottley"
           },
           "honorific-suffix": {
-            "text": "EGH OR QC MP",
+            "text": "QC MP",
             "links": [
-              {
-                "text": "EGH",
-                "type": "internal",
-                "page": "Order of the Golden Heart of Kenya"
-              },
-              {
-                "text": "OR",
-                "type": "internal",
-                "page": "Order of Roraima"
-              },
               {
                 "text": "QC",
                 "type": "internal",
@@ -378,6 +368,14 @@
         }
       ],
       "references": [
+        {
+          "title": "GOV.BB",
+          "url": "https://www.gov.bb/Government/prime-minister",
+          "access-date": "1 December 2021",
+          "website": "www.gov.bb",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "url": "http://www.thedialogue.org/experts/mia-amor-mottely/",
           "title": "Inter-American Dialogue {{!}} Mia Amor Mottely",

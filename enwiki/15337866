@@ -34,7 +34,7 @@
         {
           "sentences": [
             {
-              "text": "Mia Amor Mottley, (born 1 October 1965) is a Barbadian politician and attorney, and leader of the Barbados Labour Party (BLP).",
+              "text": "Mia Amor Mottley (born 1 October 1965) is a Barbadian politician and attorney, and leader of the Barbados Labour Party (BLP).",
               "links": [
                 {
                   "text": "Barbadian",
@@ -203,6 +203,15 @@
               {
                 "type": "internal",
                 "page": "Elizabeth II"
+              }
+            ]
+          },
+          "governor_general": {
+            "text": "Sandra Mason (until 2021)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sandra Mason"
               }
             ]
           },

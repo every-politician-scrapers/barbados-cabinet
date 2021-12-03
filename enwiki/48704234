@@ -38,16 +38,12 @@
         {
           "sentences": [
             {
-              "text": "Dame Sandra Prunella Mason (born 17 January 1949) is a Barbadian politician, lawyer, and diplomat serving as the first president of Barbados since 30 November 2021, when Barbados was declared a Commonwealth republic.",
+              "text": "Dame Sandra Prunella Mason (born 17 January 1949) is a Barbadian politician, lawyer, and diplomat serving as the first president of Barbados since 30 November 2021.",
               "links": [
                 {
                   "text": "president of Barbados",
                   "type": "internal",
                   "page": "president of Barbados"
-                },
-                {
-                  "type": "internal",
-                  "page": "Commonwealth republic"
                 }
               ],
               "formatting": {
@@ -170,7 +166,7 @@
       ],
       "templates": [
         {
-          "description": "President of Barbados since 2021",
+          "description": "1st president of Barbados",
           "template": "short description"
         },
         {
@@ -192,13 +188,8 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "Her Excellency The Most Honourable Dame",
+            "text": "The Most Honourable Dame",
             "links": [
-              {
-                "text": "Her Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              },
               {
                 "type": "internal",
                 "page": "The Most Honourable"
@@ -208,6 +199,9 @@
                 "page": "Dame"
               }
             ]
+          },
+          "name": {
+            "text": "Sandra Mason"
           },
           "honorific-suffix": {
             "text": "FB GCMG DA QC",
@@ -237,16 +231,21 @@
           "image": {
             "text": "Sandra of Barbados.jpg"
           },
+          "alt": {
+            "text": "Photograph of Mason wearing the insignia of the Order of Saint Michael and Saint George",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of Saint Michael and Saint George"
+              }
+            ]
+          },
           "caption": {
-            "text": "Mason at the 2019 Independence Day parade in Bridgetown, wearing the insignia of the Order of Saint Michael and Saint George",
+            "text": "Mason at the 2019 Independence Day parade in Bridgetown",
             "links": [
               {
                 "type": "internal",
                 "page": "Bridgetown"
-              },
-              {
-                "type": "internal",
-                "page": "Order of Saint Michael and Saint George"
               }
             ]
           },
@@ -308,7 +307,7 @@
             ]
           },
           "primeminister1": {
-            "text": "Freundel Stuart Mia Mottley",
+            "text": "Freundel Stuart\nMia Mottley",
             "links": [
               {
                 "type": "internal",
@@ -380,7 +379,7 @@
             "number": 1
           },
           "education": {
-            "text": "University of the West Indies, Cave Hill (LLB) Hugh Wooding Law School (LEC)",
+            "text": "University of the West Indies, Cave Hill (LLB)\nHugh Wooding Law School (LEC)",
             "links": [
               {
                 "text": "University of the West Indies, Cave Hill",

@@ -38,7 +38,7 @@
         {
           "sentences": [
             {
-              "text": "Dame Sandra Prunella Mason (born 17 January 1949) is a Barbadian politician, lawyer, and diplomat serving as the first president of Barbados since 30 November 2021.",
+              "text": "Dame Sandra Prunella Mason (born 17 January 1949) is a Barbadian politician, lawyer, and diplomat who is the first and current president of Barbados.",
               "links": [
                 {
                   "text": "president of Barbados",
@@ -91,7 +91,7 @@
                 {
                   "text": "attorney-at-law",
                   "type": "internal",
-                  "page": "lawyer"
+                  "page": "attorney-at-law"
                 },
                 {
                   "text": "judge",
@@ -188,8 +188,12 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "The Most Honourable Dame",
+            "text": "Her Excellency The Most Honourable Dame",
             "links": [
+              {
+                "type": "internal",
+                "page": "Her Excellency"
+              },
               {
                 "type": "internal",
                 "page": "The Most Honourable"
@@ -199,9 +203,6 @@
                 "page": "Dame"
               }
             ]
-          },
-          "name": {
-            "text": "Sandra Mason"
           },
           "honorific-suffix": {
             "text": "FB GCMG DA QC",
@@ -232,13 +233,7 @@
             "text": "Sandra of Barbados.jpg"
           },
           "alt": {
-            "text": "Photograph of Mason wearing the insignia of the Order of Saint Michael and Saint George",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Order of Saint Michael and Saint George"
-              }
-            ]
+            "text": "Photograph of Mason wearing the insignia of the Order of Saint Michael and Saint George"
           },
           "caption": {
             "text": "Mason at the 2019 Independence Day parade in Bridgetown",
@@ -326,12 +321,11 @@
             "text": "30 November 2021"
           },
           "predecessor1": {
-            "text": "Sir Elliott Belgrave",
+            "text": "Philip Greaves (acting)",
             "links": [
               {
-                "text": "Sir Elliott Belgrave",
                 "type": "internal",
-                "page": "Elliott Belgrave"
+                "page": "Philip Greaves"
               }
             ]
           },

@@ -149,7 +149,7 @@
           "template": "birth date and age"
         },
         {
-          "_list": "QC, MP",
+          "_list": "SC, MP",
           "template": "post-nominals"
         }
       ],
@@ -168,12 +168,12 @@
             "text": "Mia Mottley"
           },
           "honorific-suffix": {
-            "text": "QC MP",
+            "text": "SC MP",
             "links": [
               {
-                "text": "QC",
+                "text": "SC",
                 "type": "internal",
-                "page": "Queen's Counsel"
+                "page": "Senior Counsel"
               },
               {
                 "text": "MP",

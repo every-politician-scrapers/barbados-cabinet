@@ -188,11 +188,15 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "Her Excellency Dame",
+            "text": "Her Excellency The Most Honourable Dame",
             "links": [
               {
                 "type": "internal",
                 "page": "Her Excellency"
+              },
+              {
+                "type": "internal",
+                "page": "The Most Honourable"
               },
               {
                 "type": "internal",

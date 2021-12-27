@@ -1,4 +1,5 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q108857904,President of Barbados,Q244,Q244,,,2021-11-30,,Q1261556,,President of Barbados
 Q15921525,Prime Minister of Barbados,Q244,Q244,,Q1137950,1968-11-18,,,,Prime Minister of Barbados
 Q107718264,Minister of Agriculture and Food Security,,Q244,,,,,,,
 Q107718266,"Minister of Creative Economy, Culture and Sports",,Q244,,,,,,,
@@ -15,6 +16,7 @@ Q107718271,Minister of Maritime Affairs and the Blue Economy,,Q244,,,,,,,
 Q107718256,Minister of People Empowerment and Elder Affairs,,Q244,,,,,,,
 Q107718260,"Minister of Small Business, Entrepreneurship and Commerce",,Q244,,,,,,,
 Q107718242,Minister of Tourism and International Transport,,Q244,,,,,,,
+Q107718223,"Minister of Transport, Works and Maintenance",,Q244,,,,,,,
 Q107718262,"Minister of Transport, Works and Water Resources",,Q244,,,,,,,
 Q107718258,Attorney-General and Minister of Legal Affairs,,Q244,,,,,,,
 Q107718273,Minister in the Ministry of Economic Affairs and Investment,Q244,Q244,,,,,,,

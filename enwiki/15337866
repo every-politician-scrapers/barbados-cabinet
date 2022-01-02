@@ -376,49 +376,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "GOV.BB",
-          "url": "https://www.gov.bb/Government/prime-minister",
-          "access-date": "1 December 2021",
-          "website": "www.gov.bb",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.thedialogue.org/experts/mia-amor-mottely/",
-          "title": "Inter-American Dialogue {{!}} Mia Amor Mottely",
-          "website": "thedialogue.org",
-          "access-date": "12 April 2017",
-          "archive-url": "https://web.archive.org/web/20170708144004/http://www.thedialogue.org/experts/mia-amor-mottely/",
-          "archive-date": "8 July 2017",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.caribbeanelections.com/bb/elections/bb_results_2018.asp",
-          "title": "Barbados General Election Results 2018",
-          "website": "caribbeanelections.com",
-          "access-date": "26 May 2018",
-          "archive-url": "https://web.archive.org/web/20190912213745/http://www.caribbeanelections.com/bb/elections/bb_results_2018.asp",
-          "archive-date": "12 September 2019",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Bishop Atherley now Leader of the Opposition",
-          "work": "Barbados Advocate",
-          "url": "https://www.barbadosadvocate.com/news/bishop-atherley-now-leader-opposition",
-          "access-date": "9 October 2018",
-          "via": "barbadosadvocate.com",
-          "date": "2 June 2018",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

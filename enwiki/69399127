@@ -81,28 +81,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "date": "2021-04-18",
-          "title": "Barbados {{!}} Green Climate Fund",
-          "url": "https://www.greenclimate.fund/countries/barbados",
-          "access-date": "2021-11-30",
-          "archive-url": "https://web.archive.org/web/20210418202338/https://www.greenclimate.fund/countries/barbados",
-          "archive-date": "2021-04-18",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2019-06-03",
-          "title": "Difficult times won't last forever: Caddle",
-          "url": "https://barbadostoday.bb/2019/06/02/difficult-times-wont-last-forever-caddle/",
-          "access-date": "2021-11-30",
-          "website": "Barbados Today",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

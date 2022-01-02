@@ -223,34 +223,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.gwpco.com.bb/attorney_profile.cfm?ID=2",
-          "title": "GWP - Attorney Profiles",
-          "access-date": "2010-12-17",
-          "archive-url": "https://web.archive.org/web/20110706131953/http://www.gwpco.com.bb/attorney_profile.cfm?ID=2",
-          "archive-date": "2011-07-06",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.caribbean360.com/news/first-female-pm-and-new-attorney-general-sworn-into-office-in-barbados",
-          "title": "First Female PM and New Attorney General Sworn into Office in Barbados",
-          "date": "2018-05-25",
-          "website": "Caribbean360",
-          "language": "en-US",
-          "access-date": "2018-11-30",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

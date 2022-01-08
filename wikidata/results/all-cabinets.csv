@@ -1,2 +1,2 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q107717903,Mia Mottley Cabinet,2018-05-26,11,,,,,,,Q5015493,Cabinet of Barbados,,,,,,,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q107717903,Mia Mottley Cabinet,2018-05-26,11,,,,,,,,,,,,,,

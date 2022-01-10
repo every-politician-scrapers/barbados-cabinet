@@ -131,6 +131,25 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She is seeking a second term at the 2022 Barbadian general election, a snap election that she called.",
+              "links": [
+                {
+                  "text": "2022 Barbadian general election",
+                  "type": "internal",
+                  "page": "2022 Barbadian general election"
+                },
+                {
+                  "text": "snap election",
+                  "type": "internal",
+                  "page": "snap election"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [

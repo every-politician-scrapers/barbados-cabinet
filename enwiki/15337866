@@ -2,7 +2,6 @@
   "title": "Mia Mottley",
   "pageID": 15337866,
   "categories": [
-    "1965 births",
     "Living people",
     "20th-century women politicians",
     "21st-century Barbadian women",
@@ -35,7 +34,7 @@
         {
           "sentences": [
             {
-              "text": "Mia Amor Mottley, (born 1 October 1965) is a Barbadian politician and attorney, and leader of the Barbados Labour Party (BLP).",
+              "text": "Mia Amor Mottley, is a Barbadian politician and attorney, and leader of the Barbados Labour Party (BLP).",
               "links": [
                 {
                   "text": "Barbadian",
@@ -158,15 +157,15 @@
           "template": "short description"
         },
         {
-          "date": "November 2021",
-          "template": "use dmy dates"
+          "list": [
+            "The Labour Party winning the 2022 election"
+          ],
+          "date": "January 2022",
+          "template": "missing information"
         },
         {
-          "year": "1965",
-          "month": "10",
-          "day": "1",
-          "df": "y",
-          "template": "birth date and age"
+          "date": "November 2021",
+          "template": "use dmy dates"
         },
         {
           "_list": "SC, MP",
@@ -359,9 +358,6 @@
           },
           "majority3": {
             "text": "3,243 (62.1%)"
-          },
-          "birth_date": {
-            "text": "October 1, 1965"
           },
           "birth_place": {
             "text": "Barbados",

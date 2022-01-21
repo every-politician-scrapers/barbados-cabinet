@@ -266,7 +266,7 @@
             "text": "30 November 2021"
           },
           "predecessor": {
-            "text": "Position established\nElizabeth II (as Queen of Barbados)",
+            "text": "Office established\nElizabeth II (as Queen of Barbados)",
             "links": [
               {
                 "type": "internal",
@@ -279,7 +279,7 @@
             ],
             "formatting": {
               "italic": [
-                "Position established"
+                "Office established"
               ]
             }
           },

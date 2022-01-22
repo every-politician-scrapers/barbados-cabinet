@@ -34,12 +34,16 @@
         {
           "sentences": [
             {
-              "text": "Mia Amor Mottley, is a Barbadian politician and attorney, and leader of the Barbados Labour Party (BLP).",
+              "text": "Mia Amor Mottley, is a Barbadian politician and attorney who has served as Prime Minister of Barbados since 2018 and as leader of the Barbados Labour Party (BLP) since 2008.",
               "links": [
                 {
                   "text": "Barbadian",
                   "type": "internal",
-                  "page": "Barbados"
+                  "page": "Barbadians"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of Barbados"
                 },
                 {
                   "type": "internal",
@@ -53,16 +57,7 @@
               }
             },
             {
-              "text": "She has been the Prime Minister of Barbados since 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Prime Minister of Barbados"
-                }
-              ]
-            },
-            {
-              "text": "Mottley is the eighth person to hold the position of Prime Minister in Barbados and the first woman to hold either position."
+              "text": "Mottley is the eighth person to hold the office of Prime Minister in Barbados and the first woman to hold either position."
             },
             {
               "text": "She is also Barbados' first prime minister under a republic system.",
@@ -70,7 +65,7 @@
                 {
                   "text": "republic",
                   "type": "internal",
-                  "page": "republic"
+                  "page": "Republicanism in Barbados"
                 }
               ]
             }
@@ -134,10 +129,15 @@
         {
           "sentences": [
             {
-              "text": "She is seeking a second term at the 2022 Barbadian general election, a snap election that she called.",
+              "text": "She won a second term in office in a landslide victory at the 2022 general election, a snap election that she called.",
               "links": [
                 {
-                  "text": "2022 Barbadian general election",
+                  "text": "landslide victory",
+                  "type": "internal",
+                  "page": "landslide victory"
+                },
+                {
+                  "text": "2022 general election",
                   "type": "internal",
                   "page": "2022 Barbadian general election"
                 },
@@ -155,13 +155,6 @@
         {
           "description": "Prime Minister of Barbados",
           "template": "short description"
-        },
-        {
-          "list": [
-            "The Labour Party winning the 2022 election"
-          ],
-          "date": "January 2022",
-          "template": "missing information"
         },
         {
           "date": "November 2021",
@@ -225,7 +218,7 @@
               }
             ]
           },
-          "governor_general": {
+          "governor-general": {
             "text": "Sandra Mason (until 2021)",
             "links": [
               {
@@ -235,7 +228,7 @@
             ]
           },
           "president": {
-            "text": "Sandra Mason (from 2021)",
+            "text": "Sandra Mason",
             "links": [
               {
                 "type": "internal",

@@ -161,7 +161,7 @@
           "template": "use dmy dates"
         },
         {
-          "_list": "SC, MP",
+          "_list": "QC, MP",
           "template": "post-nominals"
         }
       ],
@@ -180,12 +180,12 @@
             "text": "Mia Mottley"
           },
           "honorific-suffix": {
-            "text": "SC MP",
+            "text": "QC MP",
             "links": [
               {
-                "text": "SC",
+                "text": "QC",
                 "type": "internal",
-                "page": "Senior Counsel"
+                "page": "Queens Counsel"
               },
               {
                 "text": "MP",
@@ -195,10 +195,10 @@
             ]
           },
           "image": {
-            "text": "2019 Mia Mottley (cropped).jpg"
+            "text": "Mia_Mottley_Official_Photo.jpg"
           },
           "caption": {
-            "text": "Mottley in 2019"
+            "text": "Official Portrait of Prime Minister Mia Mottley"
           },
           "office": {
             "text": "8th Prime Minister of Barbados",

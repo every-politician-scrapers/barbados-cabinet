@@ -228,11 +228,20 @@
             ]
           },
           "president": {
-            "text": "Sandra Mason",
+            "text": "Sandra Mason (since 2021)",
             "links": [
               {
                 "type": "internal",
                 "page": "Sandra Mason"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Santia Bradshaw",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Santia Bradshaw"
               }
             ]
           },

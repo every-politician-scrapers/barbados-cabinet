@@ -52,8 +52,14 @@
           "name": {
             "text": "Marsha K. Caddle"
           },
+          "image": {
+            "text": "Marsha Caddle.jpg"
+          },
           "office": {
             "text": "Minister of Economic Affairs and Investment"
+          },
+          "caption": {
+            "text": "Caddle on stage at COP26"
           },
           "constituency": {
             "text": "St Michael South Central"

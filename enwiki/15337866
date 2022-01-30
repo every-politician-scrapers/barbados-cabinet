@@ -338,6 +338,40 @@
             ]
           },
           "office3": {
+            "text": "7th Deputy Prime Minister of Barbados",
+            "links": [
+              {
+                "text": "Deputy Prime Minister of Barbados",
+                "type": "internal",
+                "page": "List of deputy prime ministers of Barbados"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "26 May 2003"
+          },
+          "term_end3": {
+            "text": "15 January 2008"
+          },
+          "predecessor3": {
+            "text": "Billie Miller",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Billie Miller"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Freundel Stuart",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Freundel Stuart"
+              }
+            ]
+          },
+          "office4": {
             "text": "Member of Parliament\nfor Saint Michael North East",
             "links": [
               {
@@ -352,13 +386,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "6 September 1994"
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "Leroy Brathwaite"
           },
-          "majority3": {
+          "majority4": {
             "text": "3,243 (62.1%)"
           },
           "birth_place": {

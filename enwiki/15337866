@@ -266,78 +266,7 @@
               }
             ]
           },
-          "office1": {
-            "text": "Leader of the Opposition"
-          },
-          "primeminister1": {
-            "text": "Freundel Stuart",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Freundel Stuart"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "26 February 2013"
-          },
-          "term_end1": {
-            "text": "25 May 2018"
-          },
-          "predecessor1": {
-            "text": "Owen Arthur",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Owen Arthur"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Joseph Atherley",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joseph Atherley"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "David Thompson",
-            "links": [
-              {
-                "text": "David Thompson",
-                "type": "internal",
-                "page": "David Thompson (Barbadian politician)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "7 February 2008"
-          },
-          "term_end2": {
-            "text": "18 October 2010"
-          },
-          "predecessor2": {
-            "text": "David Thompson",
-            "links": [
-              {
-                "text": "David Thompson",
-                "type": "internal",
-                "page": "David Thompson (Barbadian politician)"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Owen Arthur",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Owen Arthur"
-              }
-            ]
-          },
-          "office3": {
+          "office2": {
             "text": "7th Deputy Prime Minister of Barbados",
             "links": [
               {
@@ -347,13 +276,22 @@
               }
             ]
           },
-          "term_start3": {
+          "primeminister2": {
+            "text": "Owen Arthur",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Owen Arthur"
+              }
+            ]
+          },
+          "term_start2": {
             "text": "26 May 2003"
           },
-          "term_end3": {
+          "term_end2": {
             "text": "15 January 2008"
           },
-          "predecessor3": {
+          "predecessor2": {
             "text": "Billie Miller",
             "links": [
               {
@@ -362,12 +300,50 @@
               }
             ]
           },
-          "successor3": {
+          "successor2": {
             "text": "Freundel Stuart",
             "links": [
               {
                 "type": "internal",
                 "page": "Freundel Stuart"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Leader of the Opposition"
+          },
+          "primeminister3": {
+            "text": "David Thompson",
+            "links": [
+              {
+                "text": "David Thompson",
+                "type": "internal",
+                "page": "David Thompson (Barbadian politician)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "7 February 2008"
+          },
+          "term_end3": {
+            "text": "18 October 2010"
+          },
+          "predecessor3": {
+            "text": "David Thompson",
+            "links": [
+              {
+                "text": "David Thompson",
+                "type": "internal",
+                "page": "David Thompson (Barbadian politician)"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Owen Arthur",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Owen Arthur"
               }
             ]
           },

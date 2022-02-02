@@ -28,7 +28,8 @@
     "People from Saint Philip, Barbados",
     "University of the West Indies alumni",
     "University of Windsor Faculty of Law alumni",
-    "21st-century Barbadian women"
+    "21st-century Barbadian women",
+    "Queen's College (Barbados) alumni"
   ],
   "sections": [
     {
@@ -266,7 +267,17 @@
             "text": "30 November 2021"
           },
           "predecessor": {
-            "text": "Office established",
+            "text": "Office established\nElizabeth II (as Queen of Barbados)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              },
+              {
+                "type": "internal",
+                "page": "Queen of Barbados"
+              }
+            ],
             "formatting": {
               "italic": [
                 "Office established"
@@ -320,10 +331,10 @@
             ]
           },
           "successor1": {
-            "text": "Position abolished",
+            "text": "Office abolished",
             "formatting": {
               "italic": [
-                "Position abolished"
+                "Office abolished"
               ]
             }
           },

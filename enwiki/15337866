@@ -266,7 +266,7 @@
               }
             ]
           },
-          "office2": {
+          "office1": {
             "text": "7th Deputy Prime Minister of Barbados",
             "links": [
               {
@@ -276,7 +276,7 @@
               }
             ]
           },
-          "primeminister2": {
+          "primeminister1": {
             "text": "Owen Arthur",
             "links": [
               {
@@ -285,13 +285,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start1": {
             "text": "26 May 2003"
           },
-          "term_end2": {
+          "term_end1": {
             "text": "15 January 2008"
           },
-          "predecessor2": {
+          "predecessor1": {
             "text": "Billie Miller",
             "links": [
               {
@@ -300,7 +300,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor1": {
             "text": "Freundel Stuart",
             "links": [
               {
@@ -309,8 +309,41 @@
               }
             ]
           },
-          "office3": {
+          "office2": {
             "text": "Leader of the Opposition"
+          },
+          "primeminister2": {
+            "text": "Freundel Stuart",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Freundel Stuart"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "26 February 2013"
+          },
+          "term_end2": {
+            "text": "25 May 2018"
+          },
+          "predecessor2": {
+            "text": "Owen Arthur",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Owen Arthur"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Joseph Atherley",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joseph Atherley"
+              }
+            ]
           },
           "primeminister3": {
             "text": "David Thompson",

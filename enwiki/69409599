@@ -51,6 +51,12 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "description": "Head of the Barbados military",
+          "template": "short description"
+        }
+      ],
       "infoboxes": [
         {
           "name": {

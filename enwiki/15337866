@@ -65,12 +65,17 @@
               "text": "Mottley is the eighth person to hold the office of Prime Minister in Barbados and the first woman to hold either position."
             },
             {
-              "text": "She is also Barbados' first prime minister under a republic system.",
+              "text": "She is also Barbados' first prime minister under its republican system, following constitutional changes she introduced which abolished the country's constitutional monarchy.",
               "links": [
                 {
-                  "text": "republic",
+                  "text": "its republican system",
                   "type": "internal",
                   "page": "Republicanism in Barbados"
+                },
+                {
+                  "text": "constitutional changes",
+                  "type": "internal",
+                  "page": "Constitution of Barbados"
                 }
               ]
             }
@@ -134,7 +139,7 @@
         {
           "sentences": [
             {
-              "text": "She won a second term in office in a landslide victory at the 2022 general election, a snap election that she called.",
+              "text": "Mottley won a second term in office in a landslide victory at the 2022 general election, a snap election that she called.",
               "links": [
                 {
                   "text": "landslide victory",
@@ -166,7 +171,7 @@
           "template": "use dmy dates"
         },
         {
-          "_list": "SC, MP",
+          "_list": "QC, MP",
           "template": "post-nominals"
         }
       ],
@@ -185,12 +190,12 @@
             "text": "Mia Mottley"
           },
           "honorific-suffix": {
-            "text": "SC MP",
+            "text": "QC MP",
             "links": [
               {
-                "text": "SC",
+                "text": "QC",
                 "type": "internal",
-                "page": "Senior Counsel"
+                "page": "Queen's Counsel"
               },
               {
                 "text": "MP",

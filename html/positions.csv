@@ -1,5 +1,6 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q108857904,President of Barbados,Q244,Q244,,,2021-11-30,,Q1261556,,President of Barbados
+Q1261556,Governor-General of Barbados,Q244,Q244,,,1966-11-30,2021-11-30,,Q108857904,Governor-General of Barbados
 Q15921525,Prime Minister of Barbados,Q244,Q244,,Q1137950,1968-11-18,,,,Prime Minister of Barbados
 Q107718264,Minister of Agriculture and Food Security,,Q244,,,,,,,
 Q107718266,"Minister of Creative Economy, Culture and Sports",,Q244,,,,,,,

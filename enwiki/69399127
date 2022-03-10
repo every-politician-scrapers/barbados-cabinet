@@ -1,94 +1,11 @@
 {
-  "title": "Marsha K. Caddle",
-  "pageID": 69399127,
-  "categories": [
-    "Year of birth missing (living people)",
-    "Living people",
-    "Barbados Labour Party politicians",
-    "Members of the House of Assembly of Barbados",
-    "University of Utah alumni",
-    "People educated at Harrison College (Barbados)",
-    "21st-century women politicians",
-    "Economy ministers of Barbados",
-    "Finance ministers of Barbados",
-    "Women government ministers of Barbados"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Marsha K. Caddle is a politician and economist from Barbados, who is a Member of Parliament and the Minister of Finance, Economic Affairs and Investment.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Barbados"
-                },
-                {
-                  "text": "Member of Parliament",
-                  "type": "internal",
-                  "page": "House of Assembly of Barbados"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Marsha K. Caddle"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Barbadian politician and economist",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Marsha K. Caddle"
-          },
-          "image": {
-            "text": "Marsha Caddle.jpg"
-          },
-          "office": {
-            "text": "Minister of Economic Affairs and Investment"
-          },
-          "caption": {
-            "text": "Caddle on stage at COP26"
-          },
-          "constituency": {
-            "text": "St Michael South Central"
-          },
-          "termstart": {
-            "text": "26 May 2018"
-          },
-          "country": {
-            "text": "Barbados"
-          },
-          "office2": {
-            "text": "Member of the House of Assembly of Barbados"
-          },
-          "alma_mater": {
-            "text": "Universidad Católica Santo Domingo University of Utah",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Universidad Católica Santo Domingo"
-              },
-              {
-                "type": "internal",
-                "page": "University of Utah"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Marsha K. Caddle",
+  "image": "Marsha Caddle.jpg",
+  "office": "Minister of Economic Affairs and Investment",
+  "caption": "Caddle on stage at COP26",
+  "constituency": "St Michael South Central",
+  "termstart": "26 May 2018",
+  "country": "Barbados",
+  "office2": "Member of the House of Assembly of Barbados",
+  "alma_mater": "Universidad Católica Santo Domingo University of Utah"
 }

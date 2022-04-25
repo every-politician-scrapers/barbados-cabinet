@@ -1,9 +1,7 @@
 {
   "honorific-prefix": "Her Excellency The Most Honourable Dame",
   "honorific-suffix": "FB GCMG DA QC",
-  "image": "Sandra of Barbados.jpg",
   "alt": "Photograph of Mason wearing the insignia of the Order of Saint Michael and Saint George",
-  "caption": "Mason at the 2019 Independence Day parade in Bridgetown",
   "order": "1st",
   "office": "President of Barbados",
   "primeminister": "Mia Mottley",
@@ -21,7 +19,6 @@
   "birth_date": "January 17, 1949",
   "birth_place": "Saint Philip, Barbados",
   "party": "Independent",
-  "children": "1",
   "education": "University of the West Indies, Cave Hill (LLB)\nHugh Wooding Law School (LEC)",
   "occupation": "Politician · lawyer · ambassador · judge"
 }

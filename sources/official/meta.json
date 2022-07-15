@@ -8,13 +8,16 @@
       "start": "2020-07-22",
       "parent": "Q5015493"
     },
-    "source": {
-        "url":   "https://www.gov.bb/cabinet.php",
-        "title": "CABINET",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+    "reference": {
+        "P854":   "https://www.gov.bb/cabinet.php",
+        "P1476": {
+            "text": "CABINET",
+            "language": "en"
         }
     },
-    "agent": "every-politican-scrapers/barbados-cabinet"
+    "current_only": "true",
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Barbados"
+    }
 }

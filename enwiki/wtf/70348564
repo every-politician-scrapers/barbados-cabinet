@@ -1,0 +1,104 @@
+{
+  "title": "Lisa Cummins",
+  "pageID": 70348564,
+  "categories": [
+    "Living people",
+    "21st-century Barbadian politicians",
+    "Barbados Labour Party politicians",
+    "Government ministers of Barbados",
+    "Barbadian women ambassadors",
+    "Members of the Senate of Barbados",
+    "Year of birth missing (living people)",
+    "21st-century Barbadian women politicians",
+    "Women government ministers of Barbados"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lisa Rene Cummins is a Barbadian politician.",
+              "formatting": {
+                "bold": [
+                  "Lisa Rene Cummins"
+                ]
+              }
+            },
+            {
+              "text": "She is a senator in the Senate of Barbados.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Senate of Barbados"
+                }
+              ]
+            },
+            {
+              "text": "She currently serves as the Minister of Tourism and International Transport in the Mia Mottley administration.",
+              "links": [
+                {
+                  "text": "Mia Mottley administration",
+                  "type": "internal",
+                  "page": "Mia Mottley"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Barbadian politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "fetchwikidata": {
+            "text": "ALL"
+          },
+          "dateformat": {
+            "text": "dmy"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-03-18",
+          "title": "Cummins: Focus on business of tourism",
+          "url": "https://www.nationnews.com/2022/03/18/cummins-focus-business-tourism/",
+          "access-date": "2022-03-19",
+          "website": "www.nationnews.com",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-03-19",
+          "title": "Cummins outlines new vision to build the ‘business’ of tourism for Barbados",
+          "url": "https://barbadostoday.bb/2022/03/19/cummins-outlines-new-vision-to-build-the-business-of-tourism-for-barbados/",
+          "access-date": "2022-03-19",
+          "website": "Barbados Today",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "barbados-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -2,33 +2,46 @@ position,title
 Q108857904,President
 Q1261556,Governor-General
 Q15921525,Prime Minister
+Q113162840,Deputy Prime Minister
+Q113162809,Senior Minister
 Q107718264,Minister of Agriculture and Food Security
 Q107718266,"Minister of Creative Economy, Culture and Sports"
 Q107718283,"Minister of Education, Technological and Vocational Training and Leader of Government Business"
 Q107718268,Minister of Energy and Water Resources
 Q107718247,Minister of Environment and National Beautification
+Q113162861,Minister of Finance
 Q107718240,Minister of Foreign Affairs and Foreign Trade
 Q107718231,Minister of Health and Wellness
+Q113162757,Minister of Home Affairs and Information
+Q113162851,"Minister of Housing, Lands and Maintenance"
 Q107718285,"Minister of Information, Broadcasting and Public Affairs"
 Q107718244,"Minister of Innovation, Science and Smart Technology"
 Q107718279,Minister of International Business and Industry
 Q107718254,Minister of Labour and Social Partnership Relations
+Q107718258,Minister of Legal Affairs
 Q107718271,Minister of Maritime Affairs and the Blue Economy
+Q113162863,Minister of National Security
 Q107718256,Minister of People Empowerment and Elder Affairs
 Q107718260,"Minister of Small Business, Entrepreneurship and Commerce"
 Q107718242,Minister of Tourism and International Transport
 Q107718223,"Minister of Transport, Works and Maintenance"
 Q107718262,"Minister of Transport, Works and Water Resources"
-Q107718258,Minister of Legal Affairs
+Q113162854,"Minister of Youth, Sports and Community Empowerment"
+Q113162879,Minister in the Prime Minister's Office
 Q107718273,Minister in the Ministry of Economic Affairs and Investment
 Q107718281,Minister in the Ministry of Finance
 Q107718251,Minister in the Ministry of Foreign Trade
 Q107718249,"Minister in the Ministry of Housing, Lands and Rural Development"
 Q107718275,"Minister in the Ministry of Transport, Works and Maintenance"
+Q113162890,"Minister of State, Ministry of Health and Wellness"
 Q107718238,"Parliamentary Secretary, Ministry of Education, Technological and Vocational Training"
 Q107718235,"Parliamentary Secretary, Ministry of People Empowerment and Elder Affairs"
+Q113162874,"Parliamentary Secretary, Ministry of Transport"
+Q113162835,Leader of Government Business in The House of Assembly
+Q113162834,Leader of Government Business in The Senate
 Q109581180,President of the Senate
 Q96650191,Speaker of the Assembly
+Q25138351,Chief Justice
 Q4818603,Attorney-General
 Q58060257,Governor of the Central Bank
 Q85751933,Head of the Defence Force

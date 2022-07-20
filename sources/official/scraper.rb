@@ -9,17 +9,13 @@ class MemberList
     def name
       Name.new(
         full:     noko.css('.c-name').text,
-        prefixes: %w[Senator The Hon Dame Lt Col Mr Mrs Ms Dr],
-        suffixes: %w[M.P. J.P. Q.C. D.A. GCMG]
+        prefixes: %w[Her Excellency Most Senator The Hon Dame Lt Col Mr Mrs Ms Dr Sir],
+        suffixes: %w[K.A. PhD M.P. J.P. LLD Q.C. D.A. GCMG FB K.A]
       ).short.tidy.sub(/,$/, '').sub(/\.$/, '')
     end
 
     def position
-      # These two are only in the body text
-      return 'Governor-General' if name == 'Sandra Prunella Mason'
-      return 'Prime Minister' if name == 'Mia Amor Mottley'
-
-      noko.css('.c-position').text.tidy
+      noko.css('.c-position').text.tidy.split(/(?:,|and) (?=Minister|Senior|Leader)/).map(&:tidy)
     end
   end
 

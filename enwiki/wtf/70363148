@@ -1,0 +1,116 @@
+{
+  "title": "Davidson Ishmael",
+  "pageID": 70363148,
+  "categories": [
+    "Living people",
+    "Barbadian politicians",
+    "Government ministers of Barbados",
+    "Barbados Labour Party politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Davidson Ishmael is a Barbadian politician.",
+              "formatting": {
+                "bold": [
+                  "Davidson Ishmael"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of parliament in the House of Assembly of Barbados.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "House of Assembly of Barbados"
+                }
+              ]
+            },
+            {
+              "text": "He was first elected member of parliament in January 2018."
+            },
+            {
+              "text": "He also serves as the Minister of Industry, Innovation, Science and Technology in the cabinet of Mia Mottley.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mia Mottley"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Barbadian politician",
+          "template": "short description"
+        },
+        {
+          "date": "March 2022",
+          "template": "orphan"
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-10-29",
+          "title": "Political hopeful outlines plans for St Michael North",
+          "url": "https://barbadostoday.bb/2021/10/29/political-hopeful-outlines-plans-for-st-michael-north/",
+          "access-date": "2022-03-21",
+          "website": "Barbados Today",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-10-28",
+          "title": "Toppin: Over to Ishmael",
+          "url": "https://www.nationnews.com/2021/10/28/toppin-over-to-ishmael/",
+          "access-date": "2022-03-21",
+          "website": "www.nationnews.com",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-02-21",
+          "title": "National Trident ID card still in the works",
+          "url": "https://www.nationnews.com/2022/02/21/national-trident-id-card-still-works/",
+          "access-date": "2022-03-21",
+          "website": "www.nationnews.com",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-03-12",
+          "title": "Investigation to determine cause of IT failures at gov’t agencies",
+          "url": "https://barbadostoday.bb/2022/03/12/investigation-to-determine-cause-of-it-failures-at-govt-agencies/",
+          "access-date": "2022-03-21",
+          "website": "Barbados Today",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "barbados-politician-stub"
+        }
+      ]
+    }
+  ]
+}

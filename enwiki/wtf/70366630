@@ -1,0 +1,86 @@
+{
+  "title": "Shantal Munro-Knight",
+  "pageID": 70366630,
+  "categories": [
+    "Living people",
+    "Barbadian politicians",
+    "Government ministers of Barbados",
+    "Barbados Labour Party politicians",
+    "Members of the Senate of Barbados",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Shantal Munro-Knight is a Barbadian politician.",
+              "formatting": {
+                "bold": [
+                  "Shantal Munro-Knight"
+                ]
+              }
+            },
+            {
+              "text": "She is also a senator in the Senate of Barbados.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Senate of Barbados"
+                }
+              ]
+            },
+            {
+              "text": "She serves as a Minister in the Prime Minister's Office of Barbados."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Barbadian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "last": "Caribe",
+          "first": "Comisión Económica para América Latina y el",
+          "date": "2022-03-11",
+          "title": "Secretario de Estado Parlamentario del BMZ, Niels Annen, participa en la Quinta reunión del Foro de los Países de Latinoamérica y el Caribe sobre el Desarrollo Sostenible en Costa Rica",
+          "url": "https://www.cepal.org/es/notas/secretario-estado-parlamentario-bmz-niels-annen-participa-la-quinta-reunion-foro-paises",
+          "access-date": "2022-03-22",
+          "website": "www.cepal.org",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-03-18",
+          "title": "Stewart may be forced to pull band out of Kadooment because of late Crop Over decision",
+          "url": "https://barbadostoday.bb/2022/03/18/stewart-may-be-forced-to-pull-band-out-of-kadooment-because-of-late-crop-over-decision/",
+          "access-date": "2022-03-22",
+          "website": "Barbados Today",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "barbados-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Sonia Browne",
+  "pageID": 70367249,
+  "categories": [
+    "Living people",
+    "Barbadian politicians",
+    "Government ministers of Barbados",
+    "Barbados Labour Party politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sonia Browne is a Barbadian politician and physician.",
+              "formatting": {
+                "bold": [
+                  "Sonia Browne"
+                ]
+              }
+            },
+            {
+              "text": "She is a member of parliament in the House of Assembly of Barbados.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "House of Assembly of Barbados"
+                }
+              ]
+            },
+            {
+              "text": "She was first elected member of parliament in January 2018."
+            },
+            {
+              "text": "She also serves as the Minister of State in the Ministry of Health."
+            },
+            {
+              "text": "Browne is the Chairman of Committees in the 2018-2023 Parliament."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Barbadian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "QEH improves laundry department with $30, 000 donation {{!}} Loop Barbados",
+          "url": "https://barbados.loopnews.com/content/qeh-improves-laundry-department-30-000-donation",
+          "access-date": "2022-03-22",
+          "website": "Loop News",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-03-17",
+          "title": "It’s about time banks contribute, says Browne",
+          "url": "https://barbadostoday.bb/2022/03/17/its-about-time-banks-contribute-says-browne/",
+          "access-date": "2022-03-22",
+          "website": "Barbados Today",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-03-15",
+          "title": "MP's return home",
+          "url": "https://barbadostoday.bb/2022/03/15/mps-return-home/",
+          "access-date": "2022-03-22",
+          "website": "Barbados Today",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "barbados-politician-stub"
+        }
+      ]
+    }
+  ]
+}

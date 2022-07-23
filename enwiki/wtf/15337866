@@ -1339,10 +1339,10 @@
           "title": "Mia Mottley: The 100 Most Influential People of 2022",
           "url": "https://time.com/collection/100-most-influential-people-2022/6177695/mia-mottley/",
           "access-date": "2022-06-21",
-          "website": "Time",
+          "magazine": "Time",
           "language": "en",
           "template": "citation",
-          "type": "web"
+          "type": "magazine"
         },
         {
           "date": "2022-06-20",
@@ -1420,9 +1420,6 @@
           ]
         },
         {
-          "sentences": []
-        },
-        {
           "sentences": [
             {
               "text": "In December 2020, Mottley was named Person of the Year by Caribbean National Weekly, along with Oliver Mair.",
@@ -1447,6 +1444,15 @@
       ],
       "lists": [
         [
+          {
+            "text": "Lifetime Achievement Award (Champions of the Earth) in 2021.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Champions of the Earth"
+              }
+            ]
+          },
           {
             "text": "Order of the Golden Heart of Kenya.svg - 🇰🇪 Kenya - Elder of the Order of the Golden Heart &ndash; EGH, of Kenya (2019)",
             "links": [
@@ -1488,6 +1494,17 @@
         ]
       ],
       "references": [
+        {
+          "last1": "Programme",
+          "first1": "UN Environment",
+          "title": "2021 Champions of the Earth",
+          "url": "https://www.unep.org/championsofearth/laureates/2021",
+          "website": "Champions of the Earth",
+          "language": "en",
+          "date": "3 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "template": "citation",
           "type": "inline",
